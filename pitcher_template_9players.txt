@@ -1,0 +1,124 @@
+# Pitcher Analysis Template - 9 Players
+# Generated: 2025-03-31
+# Source: baseballsavant.mlb.com/leaderboard/expected_statistics
+
+## INSTRUCTIONS:
+1. Go to: https://baseballsavant.mlb.com/leaderboard/expected_statistics
+2. Filter: Year=2025, Type=Pitcher, Min PA/IP=1
+3. Search từng tên, điền số vào dòng tương ứng
+4. Copy paste kết quả cho mình
+
+## TEMPLATE (Copy và điền):
+
+---
+
+### 1. PJ Poulin | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 2. Andre Pallante | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 3. Erick Fedde | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 4. Germán Márquez | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 5. Aaron Civale | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 6. José Suarez | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 7. Brandon Williamson | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 8. Janson Junk | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+### 9. Ryan Feltner | Team: ____
+- IP (2025): ____
+- ERA: ____ | xERA: ____
+- K%: ____ | BB%: ____ | K-BB%: ____
+- Barrel%: ____ | Hard Hit%: ____
+- Whiff%: ____ | Chase%: ____
+- BABIP: ____ | LOB%: ____
+
+---
+
+## QUICK FORMAT (1 line per pitcher):
+Tên | Team | IP | ERA | xERA | K% | BB% | Barrel% | Whiff% | Chase% | BABIP | LOB%
+
+PJ Poulin | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Andre Pallante | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Erick Fedde | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Germán Márquez | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Aaron Civale | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+José Suarez | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Brandon Williamson | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Janson Junk | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+Ryan Feltner | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___ | ___
+
+---
+
+## WHAT TO LOOK FOR:
+
+✅ BUY LOW (Unlucky):
+- ERA > xERA by 1.00+
+- BABIP > .320
+- LOB% < 65%
+
+🎰 SELL HIGH (Lucky):
+- ERA < xERA by 1.00+
+- BABIP < .260
+- LOB% > 80%
+
+📈 BREAKOUT SIGNS:
+- K% up >3% vs career
+- BB% down >2% vs career
+- Whiff% >28%
+
+📉 DECLINE SIGNS:
+- K% down >3% vs career
+- Barrel% >10%
+- Velo drop >2mph
